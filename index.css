@@ -1,0 +1,12 @@
+
+
+body{
+    background-image: linear-gradient(to right,black,white,rgb(255, 217, 0),rgb(255, 255, 255));
+}
+.divss{
+    background-image: linear-gradient(to right, rgb(255, 187, 0) , rgb(73, 73, 73));
+    margin:25px; 
+}
+.roww{
+    padding-left: 75px;
+}
